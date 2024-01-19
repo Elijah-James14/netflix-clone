@@ -8,5 +8,6 @@ Authentication and backend database was created with firebase.
 
 Users can sign up and save their favourite movies.
 
+[Go to the webapp](https://netflix-clone-six-xi-40.vercel.app/)
 
 ![net](https://github.com/Elijah-James14/netflix-clone/assets/123472108/706ec4b8-876b-4189-af44-b72f46abc7ca)
